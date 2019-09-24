@@ -1,0 +1,10 @@
+div{
+    width: 300px;
+    height: 200px;
+    border: 20px dashed red;
+    background: lightyellow;
+    padding: 40px;
+    margin: 40px;
+    font: bold 15px Arial;
+    text-align: left;
+}
